@@ -2,30 +2,5 @@
  width: 100%;
  margin: 15px;
  padding: 20px;
+ color:#919191
 }
-#content-wrapper article{
-    width: 60%;
-}
-
-#content-wrapper aside{
-    width: 40%;
-}
-
-#main{
-
-}
-
-#content-side{
-   font-size: 20px;
-   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-   padding: 10px;
-}
-
-#content-side ul li{
-  list-style-type: none;
-  color: #19a6f8;
-}
-
-#content-side div:nth-child(2) ul li{
-    color: #37962b;
-  }
